@@ -1,4 +1,3 @@
-console.log("cling side ")
 const inputForm = document.querySelector('form')
 const inputField = document.querySelector('input')
 const weather = document.querySelector('.weather')
